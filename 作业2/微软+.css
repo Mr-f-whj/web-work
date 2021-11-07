@@ -1,0 +1,1277 @@
+@media screen and (min-width: 120px) {
+
+    body,
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    ul,
+    ol {
+        margin: 0px;
+        padding: 0px;
+        /* padding: 0px 75.95px;*/
+    }
+
+    .add,
+    .pic7-0,
+    .pic8-0,
+    .pic9-0,
+    .pic10-0,
+    .pic11-0
+     {
+        display: none;
+    }
+    .all {
+        width: 99.947vw;
+        /*总盒子*/
+    }
+
+    /*一盒子*/
+    .all1 {
+        display: flex;
+        width: 89.954vw;
+        height: 54.006px;
+        margin: 0vw 4.997vw 0.132vw 4.997vw;
+    }
+
+    .a {
+        display: block;
+        width: 121.007px;
+        height: 21.994px;
+        padding: 0.921vw 0.395vw 1.053vw 0.658vw;
+    }
+
+    .pic {
+        display: block;
+        /* width: 121px;
+        height: 22px;
+        padding: 16px 6px 16px 10px; */
+
+        /* background-image: url(/mircosoft素材/pic1.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;  */
+    }
+
+    .guide0-son1 {
+        display: flex;
+        width: 53.616vw;
+        height: 54.006px;
+        margin: 0vw 0.132vw 0vw 0.066vw;
+
+    }
+
+    .guide0-son1 a {
+
+        margin: 1.25vw 0.658vw 1.579vw;
+        height: 12.996px;
+        font-size: 12.996px;
+        text-decoration: none;
+        color: #000
+    }
+
+    .guide0-son1 a:hover {
+        /*//////////////////////////////*/
+        border: 1 solid
+    }
+
+    .guide0-2 {
+        display: flex;
+        width: 26.128vw;
+        height: 54.006px;
+
+    }
+
+    .class1 {
+        display: flex;
+        width: 8.167vw;
+        height: 53.002px;
+        padding: 1.003px 0.987vw 0 0;
+
+    }
+
+    .word {
+        width: 5.93vw;
+        height: 22px;
+        margin: 1.25vw 0vw 1.053vw 0.987vw;
+        font-size: 0.855vw;
+
+    }
+
+    .pic2 {
+
+        /* width: 32px; */
+        height: 20px;
+        margin-top: 1.316vw;
+
+    }
+
+    .class2 {
+        display: flex;
+        width: 5.921vw;
+        height: 53px;
+        padding-top: 0.066vw;
+
+    }
+
+    .search {
+        height: 18px;
+        margin: 1.184vw 0px 1.184vw 0.987vw;
+        font-size: 0.855vw;
+        text-decoration: none;
+        color: #000;
+    }
+
+    .pic3 {
+        height: 20px;
+        margin-top: 1.184vw;
+        margin-left: 0.263vw;
+    }
+
+    .class3 {
+        display: flex;
+        width: 4.013vw;
+        height: 43px;
+        margin: 0 0.658vw 0 0.461vw;
+        padding: 0.197vw 0 0.526vw 0;
+
+    }
+
+    .shop {
+        height: 18px;
+        margin: 1.053vw 0px 0.658vw 0;
+        font-size: 0.855vw;
+        text-decoration: none;
+        color: #000;
+    }
+
+    .pic4 {
+        height: 20px;
+        margin-top: 0.921vw;
+        margin-left: 0.132vw;
+    }
+
+    .class4 {
+        display: flex;
+        width: 5.921vw;
+        height: 50.996px;
+        margin: 0.197vw 0 0 0;
+
+    }
+
+    .signin {
+        height: 18px;
+        margin: 1.053vw 0.263vw 0.658vw 0.789vw;
+        font-size: 13px;
+        text-decoration: none;
+        color: #000;
+    }
+
+    .pic5 {
+        height: 24px;
+        width: 1.579vw;
+        margin: 8px 0.197vw 13px 0.526vw;
+    }
+
+    .class5 {
+        display: flex;
+        text-decoration: none;
+    }
+
+/*二盒子*//**************************************************/
+/*第一个*/
+    .all2 {
+        width: 89.954vw;
+        height: 511.298px;
+        margin: 0vw 4.997vw 0vw 4.997vw;
+        background-image: url(mircosoft素材/RWLAmj.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        /* pointer-events: none; */
+    }
+
+    .box1 {
+        width: 79.159vw;
+        height: 511.298px;
+        margin: 0 5.398vw 0 5.397vw;
+        overflow: hidden;
+    }
+
+    .box1-big {
+        width: 32.977vw;
+        height: 179.6px;
+        margin: 165.85px 0;
+        background-color: transparent;
+    }
+
+    .box1-son1 {
+        display: block;
+        width: 60.405px;
+        height: 16.401px;
+        line-height: 16.401px;
+        padding: 6.004px 13.999px 7.995px 13.999px;
+        background-color: #FFb900;
+        color: #000;
+        font-size: 15.002px;
+    }
+
+    .box1-son2 {
+        display: block;
+        width: 32.977vw;
+        height: 2.829vw;
+        line-height: 2.829vw;
+        background-color: transparent;
+        font-size: 2.237vw;
+        color: #fff;
+    }
+
+    .box1-son3 {
+        display: block;
+        width: 501.25px;
+        height: 20px;
+        font-size: 15px;
+        background-color: transparent;
+        color: #fff;
+    }
+
+    .box1-son4 {
+        width: 499.25px;
+        height: 55.2px;
+        margin: 24px 2px 0 0;
+        overflow: hidden;
+
+    }
+
+    .box1-son4-gson1 {
+        display: flex;
+        width: 254.46px;
+        height: 39.2px;
+
+        background-color: #fff;
+        color: #000;
+        font-size: 15px;
+        overflow: hidden;
+    }
+
+    .word1 {
+        display: inline-block;
+        width: 191.34px;
+        height: 23.2px;
+        line-height: 23.2px;
+        margin: 8px 0px 8px 20px;
+        /* margin: 0 0 10px 0; */
+    }
+
+    .pic6 {
+        display: inline-block;
+        height: 23.2px;
+        line-height: 23.2px;
+        padding: 10px 20px 8px 0px;
+        /* width:16px;
+        height: 16px; */
+        overflow: hidden;
+    }
+
+    .box1-son4-gson1 {
+        transition: transform 0.5s;
+    }
+
+    .box1-son4-gson1:hover {
+        background-color: #e6e6e6;
+    }
+
+    .box1-son4-gson1:hover .word1 {
+        transform: translateX(-2px);
+        border-bottom: 3px solid black;
+    }
+
+    .box1-son4-gson1:hover .pic6 {
+        transform: translateX(3px);
+    }
+    /*第二部分*/
+    .transparent-box {
+        position: relative;
+        width: 99.954vw;
+        height: 511.298px;
+        /* margin: 0vw 4.997vw 0vw 4.997vw; */
+        background-color: transparent;
+
+    }
+  .abs-sign-left {
+        display: none;
+        position: absolute;
+        margin: 0 0 0 4.997vw;
+        top: 45%;
+        left: 1px;
+        width: 42px;
+        height: 42px;
+        border-radius: 21px;
+        background-color: #fff;
+    }
+
+    .abs-sign-left img {
+        margin: 13.5px;
+    }
+
+
+    .abs-sign-right {
+        display: none;
+        position: absolute;
+        margin: 0 4.998vw 0 0;
+        top: 45%;
+        right: 1px;
+        width: 42px;
+        height: 42px;
+        border-radius: 21px;
+        background-color: #fff;
+    }
+
+    .abs-sign-right img {
+        margin: 13.5px;
+    }
+    /* .point-sign {
+        position: absolute;
+        display: flex;
+    } */
+    .abs-sign-bottom {
+        display: inline-block;
+        position: absolute; 
+        width: 35px;
+        height: 35px;
+        bottom: 8px;
+        right: 49%;        
+    }   
+    .point-btm1 {
+        display: inline-block;
+        position: absolute;
+        bottom: 22px;
+        left: 47%;
+        width: 4px;
+        height: 4px;
+        border: 0.25px solid #000;
+        border-radius: 2px; 
+    }
+    .point-btm2 {
+        display: inline-block;
+        position: absolute;
+        bottom: 22px;
+        left: 48%;
+        width: 4px;
+        height: 4px;
+        border: 0.25px solid #000;
+        border-radius: 2px; 
+    }
+    /* .point-btm1:hover {
+
+    } */
+
+    .abs-sign-bottom:hover {
+        background-color: #fff;
+        opacity: 0.6;
+    }
+    .transparent-box:hover .abs-sign-left {
+        display: block;
+    }
+    .transparent-box:hover .abs-sign-right {
+        display: block;
+    }
+
+    .abs-sign-left:hover {
+        box-shadow: 0px 3px 8px 1px #616161;
+    }
+
+    .abs-sign-right:hover {
+        box-shadow: 0px 3px 8px 1px #616161;
+    }
+
+
+    .fk-all2 {
+        /* position: absolute; */
+        display: none;
+        width: 89.954vw;
+        height: 511.298px;
+        margin: 0vw 4.997vw 0vw 4.997vw;
+        background-image: url(mircosoft素材/RWKCAD.webp);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        /* pointer-events: none; */
+    }
+
+  
+    .fk-box1 {
+        /* display: none; */
+        width: 79.159vw;
+        height: 511.298px;
+        margin: 0 5.398vw 0 5.397vw;
+        overflow: hidden;
+    }
+
+    .fk-box1-big {
+        /* display: none;  ///////////////*/ 
+        width: 540.25px;
+        height: 199.6px;
+        margin: 62.034px 0;
+        background-color: transparent;
+    }
+
+    .fk-box1-son1 {
+        display: block;
+        width: 30.405px;
+        height: 16.401px;
+        line-height: 16.401px;
+        padding: 6.004px 13.999px 7.995px 13.999px;
+        background-color: #FFb900;
+        color: #000;
+        font-size: 15.002px;
+    }
+
+    .fk-box1-son2 {
+        display: block;
+        margin: 0 0 24px 0;
+        width: 32.977vw;
+        height: 2.158vw;
+        line-height: 2.829vw;
+        background-color: transparent;
+        font-size: 2.105vw;
+        font-weight: 600;
+        color: #000;
+    }
+
+    .fk-box1-son3 {
+        display: block;
+        width: 520.25px;
+        font-size: 15px;
+        background-color: transparent;
+        color: #000;
+    }
+
+    .fk-box1-son4 {
+        width: 499.25px;
+        height: 55.2px;
+        margin: 24px 2px 0 0;
+        overflow: hidden;
+
+    }
+
+    .fk-box1-son4-gson1 {
+        display: flex;
+        width: 123.46px;
+        height: 39.2px;
+
+        background-color: #000;
+        color: #000;
+        font-size: 15px;
+        overflow: hidden;
+    }
+
+    .fk-word1 {
+        display: inline-block;
+        width: 70.34px;
+        height: 23.2px;
+        line-height: 23.2px;
+        margin: 8px 0px 8px 20px;
+        color: #fff;
+        /* margin: 0 0 10px 0; */
+    }
+
+    .fk-pic6 {
+        display: inline-block;
+        height: 23.2px;
+        line-height: 23.2px;
+        padding: 10px 20px 8px 0px;
+        /* width:16px;
+    height: 16px; */
+        overflow: hidden;
+    }
+
+    .fk-box1-son4-gson1 {
+        transition: transform 0.5s;
+    }
+
+    .fk-box1-son4-gson1:hover {
+        background-color: #000;
+    }
+
+    .fk-box1-son4-gson1:hover .fk-word1 {
+        transform: translateX(-2px);
+        border-bottom: 3px solid #e6e6e6;
+    }
+
+    .fk-box1-son4-gson1:hover .fk-pic6 {
+        transform: translateX(3px);
+    }
+
+    /* .word1:hover {
+        transform: scaleX(1.5px);
+    } */
+    /*/////////////上面动态有问题/已解决///***//*三盒子*/
+    .all3 {
+        width: 89.954vw;
+        height: 114px;
+        margin: 48px 4.997vw 0px 4.997vw;
+        padding: 15px 0 0;
+        text-align: center;
+
+    }
+
+    .list {
+        list-style: none;
+        width: 60.658vw;
+        height: 114px;
+        /* text-align: center; */
+        /*无序列表居中？？？*/
+        margin-right: auto;
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    li {
+        display: inline-block;
+
+
+    }
+
+    .block1 {
+        width: 12.105vw;
+        height: 80px;
+        /*/////////////*/
+        text-align: center;
+        font-size: 0.987vw;
+    }
+
+    .link1 {
+        width: 8.224vw;
+        height: 40px;
+        margin: 0 1.382vw 0 1.447vw;
+        color: #000;
+        text-align: center;
+    }
+
+    .pic7 {
+        margin-bottom: 8px;
+    }
+
+    .block2 {
+        width: 10.526vw;
+        height: 80px;
+        margin: 12px 0.395vw;
+        text-align: center;
+        font-size: 0.987vw;
+    }
+
+    .link2 {
+        width: 8.224vw;
+        height: 20px;
+        margin: 0 1.382vw 0 1.447vw;
+        color: #000;
+        text-align: center;
+    }
+
+    .pic8 {
+        margin-bottom: 8px;
+    }
+
+    .block3 {
+        width: 10.526vw;
+        height: 80px;
+        /*//////////*/
+        margin: 12px 0.395vw;
+        text-align: center;
+        font-size: 0.987vw;
+    }
+
+    .link3 {
+        width: 8.224vw;
+        height: 40px;
+        margin: 0 1.382vw 0 1.447vw;
+        color: #000;
+        text-align: center;
+    }
+
+    .pic9 {
+        margin-bottom: 8px;
+    }
+
+    .block4 {
+        width: 10.526vw;
+        height: 80px;
+        margin: 12px 0.395vw;
+        text-align: center;
+        font-size: 0.987vw;
+    }
+
+    .link4 {
+        width: 8.224vw;
+        height: 20px;
+        margin: 0 1.382vw 0 1.447vw;
+        color: #000;
+        text-align: center;
+    }
+
+    .pic10 {
+        margin-bottom: 8px;
+    }
+
+    .block5 {
+        width: 10.526vw;
+        height: 80px;
+        margin: 12px 0.395vw;
+        text-align: center;
+        font-size: 0.987vw;
+    }
+
+    .link5 {
+        width: 8.224vw;
+        height: 20px;
+        margin: 0 1.382vw 0 1.447vw;
+        color: #000;
+        text-align: center;
+    }
+
+
+    .pic11 {
+        margin-bottom: 8px;
+    }
+
+    /* .box2 {
+        display: flex;
+        justify-content: center;
+        width: 922px;
+        height:114px;
+    } */
+    /*///////////上有问题/////////*/
+    /*第四部分 下*/
+    .all4 {
+        width: 89.954vw;
+        height: 417.74px;
+        padding: 16px 0 0 0;
+        margin: 0 4.997vw;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .block6 p,.block7 p,.block8 p,.block9 p{
+        font-size: 0.987vw;
+        width: 20.515vw;
+        height: 3.947vw
+    }
+    .block6 {
+        width: 21.305vw;
+        height: 359.54px;
+        margin: 48px 0 0 0;
+    }
+
+    .sign1 {
+        padding: 3px 13.999px 5px;
+        margin: 10px 0px 4px;
+        width: 27.953px;
+        height: 18px;
+        line-height: 20px;
+        font-size: 12.996px;
+        color: #000;
+        background-color: #FFD800;
+
+    }
+
+    .title1 {
+        width: 21.305vw;
+        height: 26px;
+        line-height: 28px;
+        margin: 5px 0 5px;
+        font-size: 1.316vw;
+        color: #000;
+    }
+
+    .action1 {
+        width: 5.469vw;
+        height: 23.2px;
+        padding: 10px 0.197vw 7px 0;
+        font-size: 0.987vw;
+        /* color: #0067B8; */
+    }
+
+    .block7 {
+        width: 21.305vw;
+        height: 359.54px;
+        margin: 48px 0 0 0;
+    }
+
+    .sign2 {
+        padding: 3px 14px 5px;
+        margin: 10px 0px 4px;
+        width: 55.951px;
+        height: 18px;
+        line-height: 20px;
+        font-size: 12.996px;
+        color: #000;
+        background-color: #FFD800;
+    }
+
+    .title2 {
+        width: 21.305vw;
+        height: 26px;
+        line-height: 28px;
+        margin: 5px 0px 5px;
+        font-size: 1.316vw;
+        color: #000;
+        overflow: hidden;
+    }
+
+    .action2 {
+        width: 5.469vw;
+        height: 23.2px;
+        padding: 10px 0.197vw 7px 0;
+        font-size: 0.987vw;
+        /* color: #0067B8; */
+    }
+
+    .block8 {
+        width: 21.305vw;
+        height: 359.54px;
+        margin: 48px 0 0 0;
+    }
+
+    .title3 {
+
+        padding: 1px 12px 2px 0;
+        margin: 37px 0 0;
+        height: 24px;
+        width: 20.515vw;
+        font-size: 1.316vw;
+    }
+
+    .box2 {
+        width: 21.173vw;
+        height: 80.4px;
+        padding: 1.003px;
+
+    }
+
+    .action3 {
+        width: 12.484vw;
+        height: 23.2px;
+        margin: 0 0.263vw 0 0;
+        padding: 10px 1.053vw 7px 0px;
+        color: #0067B8;
+        font-size: 0.987vw;
+    }
+
+    .action4 {
+        width: 9.369vw;
+        height: 23.2px;
+        margin: 0 0.263vw 0 0;
+        padding: 10px 1.053vw 7px 0;
+        color: #0067B8;
+        font-size: 0.987vw;
+    }
+
+    .block9 {
+        width: 21.305vw;
+        height: 359.54px;
+        margin: 48px 0 0 0;
+    }
+
+    .title4 {
+        padding: 1px 0.789vw 2px 0;
+        margin: 37px 0 0;
+        height: 24.001px;
+        width: 20.515vw;
+        font-size: 1.316vw;
+    }
+
+    .box3 {
+        width: 21.173vw;
+        height: 40.2px;
+        padding: 0.066vw;
+    }
+
+    .action5 {
+        display: inline-block;
+        margin: 0 3.998px 0 0;
+        padding: 10px 16.006px 7px 0;
+        width: 128.273px;
+        height: 23.2px;
+    }
+
+    .action6 {
+        display: inline-block;
+        margin: 0 3.998px 0 0;
+        padding: 10px 1.053vw 7px 0;
+        width: 128.273px;
+        height: 23.2px;
+    }
+
+
+
+    .action1:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action1:hover img {
+        transform: translateX(3px);
+    }
+
+    .action2:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action2:hover img {
+        transform: translateX(3px);
+    }
+
+    .action3:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action3:hover img {
+        transform: translateX(3px);
+    }
+
+    .action4:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action4:hover img {
+        transform: translateX(3px);
+    }
+
+    .action5:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action5:hover img {
+        transform: translateX(3px);
+    }
+
+    .action6:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action6:hover img {
+        transform: translateX(3px);
+    }
+
+    /*///////第五部分 下************/
+    .all5 {
+        width: 89.954vw;
+        height: 511.3px;
+        padding: 48px 0 0;
+        margin: 0 4.997vw;
+
+    }
+
+    .box4 {
+        width: 79.159vw;
+        height: 511.3px;
+        padding: 0 5.398vw 0 5.397vw;
+        background-image: url(mircosoft素材/RE4D5uF.webp);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        overflow: hidden;
+    }
+
+    .box5 {
+        /*///////////////*/
+        width: 34.211vw;
+        height: 155.2px;
+        margin: 178.05px 0;
+        overflow: hidden;
+    }
+
+    .title5 {
+        width: 34.211vw;
+        height: 40.006px;
+        padding: 0 0 15px;
+        font-size: 2.237vw;
+    }
+
+    .box6 {
+        width: 34.539vw;
+        height: 39.2px;
+        margin: 12px 0 0;
+        padding: 12px 0.132vw 0 0;
+
+    }
+
+    .action7 {
+        display: inline-block;
+        width: 174.633px;
+        height: 23.2px;
+        margin: 0 20.003px 0 0;
+        padding: 8px 20.003px;
+        font-size: 15.002px;
+        background-color: #000;
+    }
+
+    .action8 {
+        display: inline-block;
+        width: 222.482px;
+        height: 23.2px;
+        margin: 0 20.003px 0 0;
+        padding: 8px 20.003px;
+        font-size: 15.002px;
+        background-color: transparent;
+    }
+
+    .action7:hover a {
+        border-bottom: 0.197vw solid #fff;
+    }
+
+    .action7:hover img {
+        transform: translateX(3px);
+    }
+
+    .action8:hover a {
+        border-bottom: 0.197vw solid #000;
+    }
+
+    .action8:hover img {
+        transform: translateX(3px);
+    }
+
+    /*************第六部分 下***/
+    .title6 {
+        width: 1367.301px;
+        height: 28px;
+        line-height: 28px;
+        padding: 0 0 4px;
+        margin: 48px 0px 1px;
+        font-size: 1.579vw;
+        font-weight: 600;
+    }
+
+    .all6 {
+        width: 89.954vw;
+        height: 435.54px;
+        padding: 0 4.997vw
+    }
+
+    .block10 p,.block11 p,.block12 p,.block13 p{
+        font-size: 0.987vw;
+        width: 20.515vw;
+        height: 3.947vw
+    }
+    .box7 {
+        width: 89.954vw;
+        height: 417.74px;
+        padding: 16px 0 0 0;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .block10 {
+        width: 21.305vw;
+        height: 339.54px;
+        /****第一个*******/
+        /* margin: 24px 0 0; */
+    }
+
+    .sign3 {
+        padding: 3px 14px 5px;
+        margin: 10px 0px 4px;
+        width: 55.95px;
+        height: 18px;
+        line-height: 20px;
+        font-size: 13px;
+        color: #000;
+        background-color: #FFD800;
+    }
+
+    .title7 {
+        width: 20.515vw;
+        height: 24px;
+        /* line-height:  */
+        padding: 0 0.789vw 2px 0;
+        font-size: 1.316vw;
+        font-weight: 400;
+    }
+
+    .block11 {
+        width: 21.305vw;
+        height: 331.54px;
+        /* margin: 48px 0 0; */
+    }
+
+    .title8 {
+        width: 20.515vw;
+        height: 24px;
+        margin: 32px 0 0;
+        padding: 1px 0.789vw 2px 0;
+        font-weight: 500;
+    }
+
+    .block12 {
+        width: 21.305vw;
+        height: 331.54px;
+        /* margin: 48px 0 0; */
+    }
+
+    .title9 {
+        width: 20.515vw;
+        height: 24px;
+        margin: 32px 0 0;
+        padding: 1px 0.789vw 2px 0;
+        font-weight: 500;
+    }
+
+    .block13 {
+        width: 21.305vw;
+        height: 331.54px;
+        /* margin: 48px 0 0; */
+    }
+
+    .title10 {
+        width: 20.515vw;
+        height: 24px;
+        margin: 32px 0 0;
+        padding: 1px 0.789vw 2px 0;
+        font-weight: 500;
+    }
+
+    .action9 {
+        height: 23.2px;
+        width: 83.13px;
+        padding: 10px 3px 7px 0;
+    }
+
+    .action10 {
+        height: 23.2px;
+        width: 83.13px;
+        padding: 10px 3px 7px 0;
+    }
+
+    .action11 {
+        height: 23.2px;
+        width: 83.13px;
+        padding: 10px 3px 7px 0;
+    }
+
+    .action12 {
+        height: 23.2px;
+        width: 83.13px;
+        padding: 10px 3px 7px 0;
+    }
+
+    .action9:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action9:hover img {
+        transform: translateX(3px);
+    }
+
+    .action10:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action10:hover img {
+        transform: translateX(3px);
+    }
+
+    .action11:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action11:hover img {
+        transform: translateX(3px);
+    }
+
+    .action12:hover a {
+        border-bottom: 0.197vw solid #0067B8;
+    }
+
+    .action12:hover img {
+        transform: translateX(3px);
+    }
+
+    /******第七部分*******下*****/
+    .all7 {
+        width: 89.954vw;
+        height: 511.3px;
+        padding: 48px 0 0 0;
+        margin: 0 4.997vw;
+    }
+
+    .box8 {
+        width: 79.159vw;
+        height: 511.3px;
+        padding: 0 5.398vw 0 5.397vw;
+        background-image: url(mircosoft素材/RWID56.webp);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        overflow: hidden;
+    }
+
+    .block14 {
+        width: 24.622vw;
+        height: 139.2px;
+        margin: 186.05px 0;
+        background-color: transparent;
+        overflow: hidden;
+    }
+
+    .title11 {
+        margin: 0 0 12px;
+        padding: 0 0 3px;
+        width: 24.622vw;
+        height: 40px;
+        font-size: 2.237vw;
+    }
+
+    .action13 {
+        height: 43.2px;
+        width: 368.26px;
+        margin: 24px 0 0;
+        padding: 0px 2px 0 0;
+
+    }
+
+    .action13-son1 {
+        height: 20.4px;
+        width: 83.13px;
+        padding: 8px 20px;
+        /* margin: 10.8px 25.7px; */
+        background-color: #000;
+    }
+
+    .action13-son1:hover a {
+        border-bottom: 3px solid #fff;
+    }
+
+    .action13-son1:hover img {
+        transform: translateX(3px);
+    }
+
+    /********第八部分*************/
+    .all8 {
+        width: 89.954vw;
+        height: 60px;
+        margin: 48px 75.95px 0;
+        display: flex;
+    }
+
+    .word2 {
+        /* display: inline-block; */
+        margin: 5px 0 4px;
+        padding: 0 7px 0 0;
+        width: 103.09px;
+        font-size: 15px;
+    }
+
+    .all8 a {
+        display: inline-block;
+        margin-right: 16px;
+        width: 28px;
+        height: 28px;
+        background-color: gray;
+        border-radius: 7px;
+        /***圆角边框？*****/
+    }
+
+    .all8 img:hover {
+
+        opacity: 0.3;
+        /*设置图片透明度*/
+    }
+
+    /*/////////////第九部分 下//////////*/
+    .all9 {
+        width: 89.954vw;
+        height: 396px;
+        padding: 0 4.997vw;
+        margin-top: 48px;
+        background-color: #f2f2f2;
+    }
+
+    .box9 {
+        height: 324px;
+        width: 89.954vw;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .box9 ul {
+        margin-right: 12px;
+    }
+
+    ul .list1,
+    ul .list2,
+    ul .list3,
+    ul .list4,
+    ul .list5,
+    ul .list6 {
+        width: 14.203vw;
+        height: 20px;
+        margin: 36px 0 4px;
+        color: #616161;
+        background-color: transparent;
+        font-size: 0.987vw;
+    }
+
+    .box9 ul li {
+        width: 13.413vw;
+        height: 16px;
+        padding: 8px 0px;
+        font-size: 0.789vw;
+        text-decoration: none;
+        color: #616161;
+    }
+
+    ul li:hover {
+        text-decoration: underline;
+        text-decoration-color: #616161;
+    }
+
+    .bottom {
+        display: flex;
+        justify-content: space-between;
+        width: 89.954vw;
+        height: 26px;
+        padding: 30px 0 16px;
+        background-color: transparent;
+    }
+
+    .pic13 {
+        height: 24px;
+        width: 85.25px;
+        padding: 0 1.579vw 0 0;
+        display: flex;
+
+    }
+
+    /* .pic12 ul {
+        display: inline-block;
+    } */
+    .list7 {
+        width: 68.032vw;
+        height: 20px;
+        margin: 3px 0;
+        list-style: none;
+    }
+
+    .list7 li a {
+        display: inline-block;
+        color: #616161;
+        margin: 0 1.25vw 4px 0;
+        font-size: 0.789vw;
+    }
+
+    .list7 li a:hover {
+        text-decoration: underline;
+        text-decoration-color: #616161;
+    }
+
+    .pic13 span:hover {
+        text-decoration: underline;
+        text-decoration-color: #616161;
+    }
+
+
+
+
+}
