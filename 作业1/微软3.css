@@ -28,8 +28,7 @@
     .pic7,
     .pic8,
     .pic9,
-    .pic10,
-    .pic11 {
+    .pic10 {
         display: none;
     }
 
@@ -1141,6 +1140,3 @@
 
 }
 
-.nothing {
-    padding-left: 10px;
-}
